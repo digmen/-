@@ -1,0 +1,5 @@
+{
+  "watch": ["bot.js", "db.js"],
+  "ext": "js,json",
+  "exec": "node bot.js"
+}
